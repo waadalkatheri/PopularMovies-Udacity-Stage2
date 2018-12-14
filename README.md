@@ -1,5 +1,8 @@
 # Popular Movies APP
 
+![alt text](https://raw.githubusercontent.com/djkovrik/PopularMovies/master/images/poster.jpg)
+
+
 ## App is focused to show popular or toprated movies and allow user to change preference sort.
 
 #### App uses API provided by TMDB. You need to create account and get API_KEY
